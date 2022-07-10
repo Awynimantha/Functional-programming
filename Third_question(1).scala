@@ -1,4 +1,4 @@
-mport scala.io.StdIn.readLine
+import scala.io.StdIn.readLine
 object q2 extends App{
   var k:Int=2
   var i:Int=2
